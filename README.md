@@ -1,2 +1,2 @@
-# Introducci-n-a-Figma
+# Introduccion-a-Figma
 Módulo 3
