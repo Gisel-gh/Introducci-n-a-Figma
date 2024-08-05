@@ -10,9 +10,9 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
   - **Contribuciones:** Figma es una plataforma de diseño colaborativa basada en la nube. Es una herramienta gratuita de diseño UI online para crear, colaborar, producir prototipos y hacer entregas. Además, cuenta con versionado de archivos, comentarios en tiempo real y prototipado, volviéndose la elección perfecta para equipos que desean diseñar juntos sin límites.
 
 
-**Gisel Jerez**  
-Rol: Investigación sobre los casos de uso de Figma  
-Contribuciones: Se destaca por representar metas de interacción entre el sistema y los usuarios, definir requisitos funcionales, especificar el contexto y modelar el flujo básico de eventos en un caso de uso. También, en empresas facilita el trabajo remoto y colaborativo en diseño. 
+- **Jerez Gisel**
+  - **Rol:** Investigación sobre los casos de uso de Figma
+  - **Contribuciones:** Se destaca por representar metas de interacción entre el sistema y los usuarios, definir requisitos funcionales, especificar el contexto y modelar el flujo básico de eventos en un caso de uso. También, en empresas facilita el trabajo remoto y colaborativo en diseño. 
 
 
 ## Funcionalidades Principales de Figma
