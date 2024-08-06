@@ -1,0 +1,4 @@
+Funcionalidades Principales de Figma
+- Creación de diseños vectoriales.
+- Colaboración en tiempo real.
+- Prototipado interactivo
