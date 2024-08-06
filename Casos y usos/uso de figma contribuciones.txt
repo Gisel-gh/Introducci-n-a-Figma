@@ -1,0 +1,1 @@
+Se destaca por representar metas de interacción entre el sistema y los usuarios, definir requisitos funcionales, especificar el contexto y modelar el flujo básico de eventos en un caso de uso. También, en empresas facilita el trabajo remoto y colaborativo en diseño

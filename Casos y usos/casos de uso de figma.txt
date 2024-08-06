@@ -1,0 +1,3 @@
+- Diseño de interfaces de aplicaciones móviles.
+- Creación de wireframes para sitios web.
+- Diseño de logotipos y elementos gráficos.
